@@ -1,0 +1,6 @@
+# ignores all private keys
+**.key
+# ignore all private folders
+**/private/
+
+
